@@ -1,0 +1,12 @@
+D:\Workspace_visual_studio\graphs\plot_graphs\plot_graphs\bin\Debug\plot_graphs.exe.config
+D:\Workspace_visual_studio\graphs\plot_graphs\plot_graphs\bin\Debug\plot_graphs.exe
+D:\Workspace_visual_studio\graphs\plot_graphs\plot_graphs\bin\Debug\plot_graphs.pdb
+D:\Workspace_visual_studio\graphs\plot_graphs\plot_graphs\obj\Debug\plot_graphs.csprojAssemblyReference.cache
+D:\Workspace_visual_studio\graphs\plot_graphs\plot_graphs\obj\Debug\plot_graphs.Form1.resources
+D:\Workspace_visual_studio\graphs\plot_graphs\plot_graphs\obj\Debug\plot_graphs.Properties.Resources.resources
+D:\Workspace_visual_studio\graphs\plot_graphs\plot_graphs\obj\Debug\plot_graphs.csproj.GenerateResource.cache
+D:\Workspace_visual_studio\graphs\plot_graphs\plot_graphs\obj\Debug\plot_graphs.csproj.CoreCompileInputs.cache
+D:\Workspace_visual_studio\graphs\plot_graphs\plot_graphs\obj\Debug\plot_graphs.csproj.CopyComplete
+D:\Workspace_visual_studio\graphs\plot_graphs\plot_graphs\obj\Debug\plot_graphs.exe
+D:\Workspace_visual_studio\graphs\plot_graphs\plot_graphs\obj\Debug\plot_graphs.pdb
+D:\Workspace_visual_studio\graphs\plot_graphs\plot_graphs\obj\Debug\plot_graphs.csproj.ResolveComReference.cache
